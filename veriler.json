@@ -1,0 +1,87 @@
+{
+ "name": "cinsiyet",
+ "children": [
+  {
+   "name": "ERKEK",
+   "children": [
+    {
+     "name": "CS:GO",
+     "children": [
+      {
+       "name": "Türler",
+       "children": [
+        {"name": "SESLİ %80", "size": 5960},
+        {"name": "YAZILI %97", "size": 7270}
+       ]
+      }
+     ]
+    },
+    {
+     "name": "League of Legends",
+     "children": [
+      {
+       "name": "Türler",
+       "children": [
+        {"name": "SESLİ %77", "size": 9780},
+        {"name": "YAZILI %97", "size": 10000}
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Valorant",
+     "children": [
+      {
+       "name": "Türler",
+       "children": [
+        {"name": "SESLİ %80", "size": 10860},
+        {"name": "YAZILI %98", "size": 13250}
+       ]
+      }
+     ]
+    }   
+   ]
+  },
+  {
+    "name": "KIZ",
+    "children": [
+     {
+      "name": "CS:GO",
+      "children": [
+       {
+        "name": "Türler",
+        "children": [
+         {"name": "SESLİ %72", "size": 6000},
+         {"name": "YAZILI %93", "size": 7800}
+        ]
+       }
+      ]
+     },
+     {
+      "name": "League of Legends",
+      "children": [
+       {
+        "name": "Türler",
+        "children": [
+         {"name": "SESLİ %78", "size": 2010},
+         {"name": "YAZILI %95", "size": 2440}
+        ]
+       }
+      ]
+     },
+     {
+      "name": "Valorant",
+      "children": [
+       {
+        "name": "Türler",
+        "children": [
+         {"name": "SESLİ %70", "size": 880},
+         {"name": "YAZILI %96", "size": 1200}
+        ]
+       }
+      ]
+     }   
+    ]
+   }
+ ]
+}
